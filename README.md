@@ -1,31 +1,44 @@
-# 👋 Hi, I'm Sathyaprasad Rao
+## Building in public
 
 <div align="center">
 
-### 💻 Software Developer | 🤖 AI/ML Student | 🚀 Open Source Enthusiast
+# sathyaprasad105-spec
 
-Building with code on GitHub.
+> Technical founder
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=sathyaprasad105-spec&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F324115921%3Fv%3D4" alt="sathyaprasad105-spec hero visual" />
+</p>
 
 </div>
 
----
+## The point of view
 
-## 🖥️ SYSTEM_INFO
+> Building useful things and learning in public.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         SYSTEM INFO                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Subject       Sathyaprasad Rao                              │
-│  Handle        @sathyaprasad105-spec                         │
-│  Role          Software Developer | AI/ML Student            │
-│  Status        Building | Learning | Shipping                │
-│  Languages     Python • C • C++ • JavaScript                  │
-│  Focus         AI/ML • Web Development • Open Source         │
-│  Repositories  2                                             │
-│  Contributions 3                                             │
-│  Stars         0                                             │
-│  Followers     0                                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=sathyaprasad105-spec&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F324115921%3Fv%3D4" alt="sathyaprasad105-spec highlights visual" />
+</p>
+
+<p><b>sathyaprasad105-spec</b> is shipping 2 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/sathyaprasad105-spec/sathyaprasad105-spec">sathyaprasad105-spec</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/sathyaprasad105-spec/SATHYA-SATHYA">SATHYA-SATHYA</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>2</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>3</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
