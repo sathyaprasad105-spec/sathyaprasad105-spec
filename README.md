@@ -1,23 +1,52 @@
-## 👨‍💻 About Me<br><br>Hi! I'm **Sathyaprasad**, an **AI & ML Engineering student at NMAMIT**.<br><br>🤖 Exploring **Artificial Intelligence & Machine Learning**  <br>💻 Learning **Java, Python & Software Development**  <br>🎨 Social Media Committee — **TASC**  <br>🚀 Building projects, learning continuously & turning ideas into reality.<br><br>### ⚡ Philosophy<br><br>> **Code the idea. Learn from the process. Build what's next.**<br><br>🎯 **Aspiring AI/ML Engineer | Developer | Creator**🔭 I
+## Building in public
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathya_.555) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sathyaprasad Rao) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sathya_555) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathyaprasad105@gmail.com) 
+# sathyaprasad105-spec
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sathyaprasad105-spec&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sathyaprasad105-spec&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sathyaprasad105-spec&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Technical founder
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=sathyaprasad105-spec&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F324115921%3Fv%3D4" alt="sathyaprasad105-spec hero visual" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sathyaprasad105-spec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=sathyaprasad105-spec&icon=6&color=0)](https://visitcount.itsvg.in)
+## The point of view
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=sathyaprasad105-spec&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F324115921%3Fv%3D4" alt="sathyaprasad105-spec highlights visual" />
+</p>
+
+<p><b>sathyaprasad105-spec</b> is shipping 2 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/sathyaprasad105-spec/sathyaprasad105-spec">sathyaprasad105-spec</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/sathyaprasad105-spec/SATHYA-SATHYA">SATHYA-SATHYA</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>2</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>3</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=sathyaprasad105-spec&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F324115921%3Fv%3D4" alt="sathyaprasad105-spec social visual" />
+</p>
+
+<a href="https://github.com/sathyaprasad105-spec">GitHub</a>
+
+<p align="center"><sub>sathyaprasad105-spec · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
