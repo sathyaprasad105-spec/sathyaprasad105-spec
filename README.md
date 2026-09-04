@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi! I'm **Sathyaprasad**, an **AI & ML Engineering student at NMAMIT**.<br><br>🤖 Exploring **Artificial Intelligence & Machine Learning**  <br>💻 Learning **Java, Python & Software Development**  <br>🎨 Social Media Committee — **TASC**  <br>🚀 Building projects, learning continuously & turning ideas into reality.<br><br>### ⚡ Philosophy<br><br>> **Code the idea. Learn from the process. Build what's next.**<br><br>🎯 **Aspiring AI/ML Engineer | Developer | Creator**🔭 I
 
 
